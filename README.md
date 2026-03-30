@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hola, soy Gabriel Carrero 👋
+Desarrollador Full-Stack enfocado en construir aplicaciones web robustas, escalables y mantenibles.
+## 🚀 Stack principal
+- Backend: Laravel, PHP, MySQL
+- Frontend: Vue 3, TypeScript, Vite
+- Herramientas: Git, Docker, Postman
+## 💼 En qué trabajo
+- APIs REST con autenticación segura
+- Paneles administrativos y dashboards
+- Integraciones entre sistemas y automatizaciones
 
-<!--
-**gavox001/gavox001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 Contacto
+- Email: gabriel.carrero.ing@gmail.com
 
-Here are some ideas to get you started:
+## Github Stats
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gavox001&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
