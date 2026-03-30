@@ -1,3 +1,6 @@
+![Header](./your-header-image-name.png)
+
+
 # Hola, soy Gabriel Carrero 👋
 Desarrollador Full-Stack enfocado en construir aplicaciones web robustas, escalables y mantenibles.
 ## 🚀 Stack principal
