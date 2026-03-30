@@ -16,5 +16,3 @@ Desarrollador Full-Stack enfocado en construir aplicaciones web robustas, escala
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Gavox001&theme=dark&hide_border=true&locale=es)](https://git.io/streak-stats)
 
-
-[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=FajarKim)](https://github.com/FajarKim/github-readme-profile)
